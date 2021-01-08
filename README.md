@@ -1,1 +1,0 @@
-# anti-self-dual-polyhedra
